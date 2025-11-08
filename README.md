@@ -12,7 +12,8 @@ settingPFP.js
 ```
 To get the image ID, simply find the image you want to use on rec.net, then select the file name (the string of characters after the last "/" in the URL) and copy it.
 
-example:
+Example:
+
 ![example image](https://github.com/turtledin/script-to-change-pfp-rec.net/blob/main/images/exampleScreenshot.png?raw=true)
 
 Paste that string into the prompt and hit enter. If successful, you should see your profile picture/banner change.
