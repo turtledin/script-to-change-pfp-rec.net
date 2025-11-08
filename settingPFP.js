@@ -67,7 +67,7 @@ async function fetchDataAndStore() {
 }
 
 async function changePFP(token) {
-    const imageID = prompt("What's your imageID (including extention)?")
+    const imageID = prompt("What's your imageID (including extension)?")
     const oldImageID = "1zrtju6eala7yhp3mqkivepya.jpg";
     const apiUrl = "https://accounts.rec.net/account/me/profileimage";
     const options = {
