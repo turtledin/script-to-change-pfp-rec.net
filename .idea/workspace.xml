@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dee661b2-3d20-43af-bd3f-b3d8ad9c528e" name="Changes" comment="javaScriptTesting" />
+    <list default="true" id="dee661b2-3d20-43af-bd3f-b3d8ad9c528e" name="Changes" comment="javaScriptTesting">
+      <change afterPath="$PROJECT_DIR$/settingBanner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settingPFP.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "turtledin"
+  }
+}]]></component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="e39b7f76-71b6-488d-a0f7-6e4eb8626c55" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/turtledin/JavaScript-for-rec-net.git",
+    "accountId": "e39b7f76-71b6-488d-a0f7-6e4eb8626c55"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -35,6 +51,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.fetchingToken.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -61,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762497193323</updated>
-      <workItem from="1762497194553" duration="767000" />
+      <workItem from="1762497194553" duration="9498000" />
     </task>
     <task id="LOCAL-00001" summary="javaScriptTesting">
       <option name="closed" value="true" />
@@ -95,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762497958837</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="javaScriptTesting">
+      <option name="closed" value="true" />
+      <created>1762498051210</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762498051210</updated>
+    </task>
+    <task id="LOCAL-00006" summary="javaScriptTesting">
+      <option name="closed" value="true" />
+      <created>1762498200690</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762498200690</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +154,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
