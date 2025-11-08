@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dee661b2-3d20-43af-bd3f-b3d8ad9c528e" name="Changes" comment="javaScriptTesting">
-      <change afterPath="$PROJECT_DIR$/settingBanner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settingPFP.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settingBanner.js" beforeDir="false" afterPath="$PROJECT_DIR$/settingBanner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settingPFP.js" beforeDir="false" afterPath="$PROJECT_DIR$/settingPFP.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.fetchingToken.js.executor": "Run",
+    "Node.js.settingBanner.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -78,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762497193323</updated>
-      <workItem from="1762497194553" duration="9498000" />
+      <workItem from="1762497194553" duration="11023000" />
     </task>
     <task id="LOCAL-00001" summary="javaScriptTesting">
       <option name="closed" value="true" />
@@ -128,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762498200690</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="javaScriptTesting">
+      <option name="closed" value="true" />
+      <created>1762610067814</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762610067814</updated>
+    </task>
+    <task id="LOCAL-00008" summary="javaScriptTesting">
+      <option name="closed" value="true" />
+      <created>1762610162959</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762610162959</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

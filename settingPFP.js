@@ -18,8 +18,9 @@ async function getClientHints() {
     }
 }
 
+const { brands, platform } = await getClientHints();
+
 async function fetchDataAndStore() {
-    const { brands, platform } = await getClientHints();
     const apiUrl = "https://rec.net/api/auth/session";
     const options = {
         "headers": {
@@ -66,7 +67,6 @@ async function fetchDataAndStore() {
 }
 
 async function changePFP(token) {
-    const { brands, platform } = await getClientHints();
     const imageID = prompt("What's your imageID (including extention)?")
     const oldImageID = "1zrtju6eala7yhp3mqkivepya.jpg";
     const apiUrl = "https://accounts.rec.net/account/me/profileimage";
