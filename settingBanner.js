@@ -60,7 +60,6 @@ async function fetchDataAndStore() {
         const token = apiData.accessToken;
         return token;
         //console.log("Stored API data:", apiData);
-        // You can now use 'apiData' in your application
     } catch (error) {
         console.error("Error fetching or parsing data:", error);
     }
