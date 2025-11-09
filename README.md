@@ -1,5 +1,7 @@
 # Utilizing rec.net API to change your profile picture
 
+Video tutorial: https://www.youtube.com/watch?v=pH4w9Vouc6I
+
 ## How to Use
 To use you will need to be logged in to rec.net and have the browser console open. This script was made specifically for the game Rec Room to be used on their website.
 
