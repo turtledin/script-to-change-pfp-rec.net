@@ -3,7 +3,7 @@
 Video tutorial: https://www.youtube.com/watch?v=pH4w9Vouc6I
 
 ## How to Use
-To use you will need to be logged in to rec.net and have the browser console open. This script was made specifically for the game Rec Room to be used on their website.
+To use you will need to be logged in to rec.net and have the browser console open. This script was made specifically for the game Rec Room (rip) to be used on their website.
 
 Next just paste the code from either of the JavaScript files listed below (depending on what you want to change) into the console, and you will be prompted with a text field which requires you to enter the image ID.
 
